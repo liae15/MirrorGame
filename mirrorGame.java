@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Lab_1110{
+public class mirrorGame{
 
   private Scanner input;
   private Scanner input2;
@@ -14,7 +14,7 @@ public class Lab_1110{
   int guesses = 0;
   int lazerCount = 0;
   
-  public Lab_1110(){
+  public mirrorGame(){
     input = new Scanner(System.in);
     System.out.println("Welcome to the Black Box Game");
     SettingUp();
