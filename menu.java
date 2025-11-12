@@ -14,7 +14,7 @@ public class Menu
       System.out.println("(2) Guess at a mirror location");
       System.out.println("(0) Quit the game");
       choice = input.nextInt();
-    } while(choice < 0 && choice > 3);
+    } while(choice < 0 || choice > 3);
     return choice; 
   }
 }
