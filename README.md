@@ -8,3 +8,5 @@ In this game, there are mirrors randomly set up in a black box. The aim is to fi
     2. Guessing the mirror positions directly.
 
 The program keeps track of guesses, laser shots, and mirrors found. A hidden “cheat code” option will reveal all mirror positions.
+
+As of now, this program does not have a display. I hope to add one during the summer.
